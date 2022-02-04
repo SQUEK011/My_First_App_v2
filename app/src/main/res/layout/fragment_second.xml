@@ -8,10 +8,10 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.myfirstapp.model.CountViewModel" />
+            type="com.example.myfirstapp_v2.model.CountViewModel" />
         <variable
             name="secondFragment"
-            type="com.example.myfirstapp.SecondFragment" />
+            type="com.example.myfirstapp_v2.SecondFragment" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

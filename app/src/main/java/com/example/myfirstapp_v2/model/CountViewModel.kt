@@ -1,4 +1,4 @@
-package com.example.myfirstapp.model
+package com.example.myfirstapp_v2.model
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

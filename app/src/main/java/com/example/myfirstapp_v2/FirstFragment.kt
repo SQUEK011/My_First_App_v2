@@ -1,4 +1,4 @@
-package com.example.myfirstapp
+package com.example.myfirstapp_v2
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.myfirstapp.databinding.FragmentFirstBinding
-import com.example.myfirstapp.model.CountViewModel
+import com.example.myfirstapp_v2.databinding.FragmentFirstBinding
+import com.example.myfirstapp_v2.model.CountViewModel
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
